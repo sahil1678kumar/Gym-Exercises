@@ -1,1 +1,6 @@
-With the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, exercise details, pull related videos from youtube, display similar exercises, and much more, Gym Exercises is the best Fitness Website.
+Gym-Exercises is the best Fitness website available.
+
+-> It shows exercises with practical examples.
+-> Exercise Details.
+-> Users can also watch youtube videos of exercises directly from website.
+-> Users are suggested with similar exercises.
